@@ -1,7 +1,7 @@
 - 👋 Hola, soy Francisco Vasquez
-- 👀 Me gusta escribir acerca de lenguajes de programación, especialmente Pythoh
+- 👀 Me gusta escribir acerca de lenguajes de programación, especialmente Python
 - 🌱 Actualmente aprendo Python para Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ En el dia a dia publico tutoriales en https://www.comoinstala.com/ con el fin de compartir informacion de instalacion de software
 - 📫 Puedes contactarme frankvasquez778@gmail.com
 
 <!---
